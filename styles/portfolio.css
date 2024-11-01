@@ -175,6 +175,9 @@ footer .social-links a:hover {
   .hero {
     padding: 80px 20px;
   }
+  footer .email-link {
+    font-size: 16px;
+  }
   .project-description {
     padding: 0;
     text-align: center;
